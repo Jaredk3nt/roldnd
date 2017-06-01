@@ -146,10 +146,10 @@
 
 > <u>Cast time:</u> 1 action
 >
-> <u>Range:</u> 30 feet
+> <u>Range:</u> 60 feet
 >
 > <u>Duration:</u> The area remains affected
 >
-> You kneel down and blast energy through the earth around you, creating difficult terrain in a 30 ft. radius.
+> You kneel down and blast energy through the earth around you, creating difficult terrain in a 60ft wide wave up to 60ft in front of your character.
 
 ##### ---

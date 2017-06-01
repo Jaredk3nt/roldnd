@@ -54,3 +54,4 @@ The skills in **R.O.L** are slightly modified, the added skills are:
   - How well your character can pilot ships and other vehicles
 - Technology (Int) (replaces Arcana)
   - How capable you character is at using and understanding different types of technology
+

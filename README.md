@@ -10,7 +10,7 @@ Based in Humanities far future: a collection of alien species have formed a coal
 
 #### How to use this guide
 
-- The **World** folder contains all pertinent information about the **[races](World/races.md), [classes](World/classes.md), and [setting](World/overview.md)**.
+- The **World** folder contains all pertinent information about the **[races](World/races.md), [weapons & equipment](World/weapons_and_items.md), [classes](World/classes.md), [Monsters](World/monsters_and_enemies.md), and [setting](World/overview.md)**.
 - The **Campaigns** folder contains all of the campaigns created for **R.O.L.**
 - **Resources** holds all of the image assets for any of the files.
 

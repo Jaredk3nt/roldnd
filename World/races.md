@@ -170,7 +170,7 @@ Physically a Voe'er typically stands around 4ft tall, with a slightly stocky bui
 
 **The old ones**: Your Adept abilities are cast with *Wisdom*, and you have advantage on *History* checks
 
-**Crystalline hide**: Enemies have *disadvantage* when attacking you with *martial* weapons
+**Crystalline hide**: Enemies have *disadvantage* when attacking you with *melee* weapons
 
 ---
 

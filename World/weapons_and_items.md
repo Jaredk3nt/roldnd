@@ -38,7 +38,9 @@
 
 **Feet**: 1d6 bludgeoning damage, Can not be used as a bonus attack
 
-###### Energy
+###### Energy (Knight manifestations)
+
+**Energy Blade**: 1d8 energy damage + for each of your levels over 5.
 
 ---
 
@@ -74,9 +76,9 @@
 
 **Gauss Canon**: (Range 100/120) 1d12 piercing damage. Can travel through 1 targets(must roll again to hit target behind) and takes 1d8 piercing damage.
 
-###### Energy
+###### Energy (Knight manifestations)
 
-
+**Energy Bow**: (Range 150/300) 1d8 energy damage + for each of your levels over 5.
 
 
 

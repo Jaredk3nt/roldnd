@@ -4,6 +4,10 @@ The galaxy is full of vibrant sentient species that come each with a rich tapest
 
 Mold breaking is highly encouraged and can give very interesting back story to your characters that drive them to surpass the typicality's of their race.
 
+---
+
+
+
 #### Humans
 
 ###### Backstory
@@ -41,6 +45,8 @@ Humans relations are typically floating in a grey area with most of the other ra
 **Classically enhanced**: HP +2 when any *Enhanced* class
 
 **Technologically gifted**: Gain proficiency in the *Technology* skill
+
+---
 
 
 
@@ -94,6 +100,8 @@ You are a Kol born with no Adept ability and therefore lose your *True Adept* tr
 
 **Weapons Training**: gain proficiency with all *Guns*
 
+---
+
 
 
 #### Neem
@@ -128,6 +136,8 @@ Physically Neemians are humanoid with light blue to purple tints to their skin, 
 
 **Thrill of victory**: Gain 2 HP when you land the killing blow on an target
 
+---
+
 
 
 #### Voe'er
@@ -161,6 +171,8 @@ Physically a Voe'er typically stands around 4ft tall, with a slightly stocky bui
 **The old ones**: Your Adept abilities are cast with *Wisdom*, and you have advantage on *History* checks
 
 **Crystalline hide**: Enemies have *disadvantage* when attacking you with *martial* weapons
+
+---
 
 
 

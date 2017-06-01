@@ -40,6 +40,8 @@ The adept are ones who can channel energy from the world around them to perform 
 
 **Stored Energy**: To cast abilities above Lv. 0 you will use up your stored energy. You can find how much energy you can store based on the *Cognit Leveling Table* 
 
+**Improved Self**: At levels 4, 8, 12, 16, 19 you can increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can’t increase an ability score above 20 using this feature.
+
 ---
 
 #### Knights
@@ -77,7 +79,11 @@ The adept are ones who can channel energy from the world around them to perform 
 
 **Stored Energy**: To cast abilities above Lv. 0 you will use up your stored energy. You can find how much energy you can store based on the *Knight Leveling Table* 
 
+**Materialization (lv.5)**: You gain the ability to materialize *energy weapons*
+
 ---
+
+
 
 ## The Enhanced
 
@@ -120,7 +126,7 @@ The adept are ones who can channel energy from the world around them to perform 
 - Front-line
   - You gain +1 to AC when you have allies within 5ft behind you
 
-**Overclock**: When you are reduced below half of your max HP you gain an extra +2 on damage rolls
+**Overclock (lv.2)**: When you are reduced below half of your max HP you gain an extra +2 on damage rolls
 
 ---
 
@@ -209,8 +215,12 @@ The adept are ones who can channel energy from the world around them to perform 
 
 - **Medicine**
 
-  - You can heal allies twice (before needing a long rest, or regaining 1 charge on short rest) for 1d8 + 2 damage
+  - You can heal allies twice (before needing a long rest, or regaining 1 charge on short rest) for 1d8 + 2 damage 
+    - At levels 3, 10, 15 you gain an extra healing charge
+    - At level 7 your healing increases to 2d8 +2, and at level 18 you healing increases to 3d8 +2
   - Gain proficiency in *Medicine*
+  - At level 5 you gain the *Advanced Stabilization* trait
+    - You can (once every long rest) take an action to attempt to stabilize a fallen ally to health equivalent to a roll from their hit dice
 
 - **Robotics**
 
@@ -218,7 +228,18 @@ The adept are ones who can channel energy from the world around them to perform 
 
   - Gain a robotic companion
 
-    - **Drone**: You can control a *drone* up to 100 feet away. The drone has 2 + your level HP and an AC of 10. It can attack targets up to 10ft away, roll 1d4 for damage (increases to 1d6 at lv.3, 1d8 at lv.5, 2d8 at lv.10, 3d8 at lv15)
+    - **Drone**: You can control a *drone* up to 100 feet away. 
+
+      - The drone has 2 + your level HP and an AC of 10. 
+      - It can attack targets up to 10ft away, roll 1d6 for damage (increases to 1d8 at lv.5, 2d8 at lv.10, 3d8 at lv15)
+      - The drone has a movement of 50 feet
+      - You can repair the drone during a short rest as your action
+
+    - **Swarm**: You can control a swarm of small bots up to 50 ft away.
+
+      - The swarm has a movement of 25 feet but can not cover difficult terrain
+      - They attach to a target for 3 turns dealing 1d4 of damage each turn (increases to 1d6 at lv.3, 1d8 at lv.7, 2d8 at lv.12)
+      - At Lv. 15 you gain the ability to control 2 independent swarms
 
     - > WIP
 

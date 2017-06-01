@@ -8,19 +8,25 @@ This world is based roughly 1000 years into humanity's future. FTL is discovered
 
 #### Overview
 
-> Tbd
+**R.O.L** is an world set in the vast multiverse that is D&D®. The rule set is a modified version of the 5th edition, and all changes to that rule set are to provide proper emersion in a world quite different from the traditional fantasy realms. While the setting is **science** fiction, **R.O.L.** maintains a fantasy world and *often* deviates from science.
+
+> WIP
 
 #### "Geography"
 
-> Tbd
+The **R.O.L.** is made up of 11 systems that exist within a block of space approx. 5 light years (1.54 parsecs) across at its widest berth. The area is colloquially called *The Sphere* by its inhabitants because the over all "sphere-ish" shape of the region. Giving the abundance of "Goldilocks" zone planets (approx. 1 per system) plus quite a few habitable moons, life flourished in the area giving rise to many different species.
+
+> WIP
 
 #### Governmental systems
 
 *"The Republic of Life"* was established by the Voe'er is a representative form of government that attempts to provide peace and structure to the system of species that live within *The Sphere*. This system of government treats the individual planets or moons as separate entities that are allowed to maintain their own system of laws under the overall guidelines established by the **R.L.** 
 
+> WIP
+
 #### Economy
 
-> Tbd
+> WIP
 
 ---
 
@@ -40,4 +46,11 @@ The colloquial term for the collection of systems that makes up the **Republic o
 
 
 
+## Changes to 5e
 
+The skills in **R.O.L** are slightly modified, the added skills are:
+
+- Vehicle piloting (Dex)
+  - How well your character can pilot ships and other vehicles
+- Technology (Int) (replaces Arcana)
+  - How capable you character is at using and understanding different types of technology

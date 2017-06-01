@@ -1,6 +1,6 @@
 ## The races:
 
-The galaxy is full of vibrant sentient species that come each with a rich tapestry of history and characteristics. Choosing your race will help you define how you act, how you align, and the roles you can participate in.
+The galaxy is full of vibrant sentient species that come each with a rich tapestry of history and characteristics. Choosing your race will help you define how you act, how you align, and the roles you can participate in. Races will give you boosts to your stats and special skills that make them unique from one another, besides their sometimes quite different appearances.
 
 Mold breaking is highly encouraged and can give very interesting back story to your characters that drive them to surpass the typicality's of their race.
 
@@ -34,6 +34,14 @@ Humans relations are typically floating in a grey area with most of the other ra
 
 ~
 
+###### Traits & Boosts
+
+**Boosts**: Intelligence +2, Dexterity +1
+
+**Classically enhanced**: HP +2 when any *Enhanced* class
+
+**Technologically gifted**: Gain proficiency in the *Technology* skill
+
 
 
 #### Kol
@@ -64,24 +72,61 @@ With an average life span of 125 - 150 years they are not the longest-living spe
 
 Physically the Kol are humanoid and stand around 6.5ft tall and have longer legs in proportion to their torsos. They tend to have very slender builds with little muscle definition, due to their dependence on the Adept. Their skin is very light and fair with shades ranging from slightly greenish-yellow to light brown. Their hair is very light with very subtle red accents, it is kept long and braided for all people.
 
+###### Traits & Boosts
+
+**Boosts**: Dexterity +2
+
+**One with the Universe**: Gain proficiency in *Insight*
+
+**Long legged**: Only take an extra 0.5 ft. for every foot of difficult terrain
+
+**True Adept**: gain one cantrip from the *Adept* ability list no matter your class.
+
+
+
+###### Sub races
+
+**Barren Kol**
+
+You are a Kol born with no Adept ability and therefore lose your *True Adept* trait and must be from an enhanced class.
+
+**Boosts**: Intelligence +2
+
+**Weapons Training**: gain proficiency with all *Guns*
+
 
 
 #### Neem
 
 ###### Backstory
 
+Neemians are a younger race from the furthest planet from the Voe'er's home world. Kept at an arms distance in the **R.O.L** the neemians have tendencies towards violence and conquering. In Neem culture victory is viewed as the ultimate prize at the cost of all other things. This has caused rather strange events in the past of their race as many will leave a side that is seen to be losing a battle. After the Neemian gained FTL travel they started a war over a nearby moon against the Rieandi that was broken up swiftly by the Voe'er, who now keep a watchful eye over their world.
+
+They were extremely open to the introduction of cybernetics by the Humans, and have adopted them into their daily lives.
+
 ###### Alignment
 
+The Neem are typically chaotic as they often view everything as a contest that needs to be bested. However they exist all over the spectrum from good to evil, often times changing throughout their own lives.
+
 ###### Culture
+
+Neem culture is best described through their battle chant "Victory above all".
 
 ###### Relations
 
 ###### Physical Traits
 
-> old
+Neemians have a shorter life, with an average around 60. They mature quickly though and are considered to be adults at 14 years old.
 
-A race only slightly older than humans they ride the fringe in the inner-zone. They have tendencies towards violence and conquering for glory that rivals humans typical self-interest. While not necessarily evil their actions will often be chaotic or reckless. Neemians are the race that is most into enchantments. No neemian has ever been found to be adept to current knowledge. Due to their temperament they rely on heavier enhancements for fighting. While neemians will clan up similarly to humans they tend to be slightly less loyal and will often change sides to be with the Victor. Many of the other races coin them with the phrase "victory above honor or pride".
-Neemian are humanoid with light blue or purlple tints to their skin. They stand at an average of 5ft tall so slightly shorter than humans but with roughly the same build. Their strength is typically only slightly higher than that of a comparable human without enhancements.
+Physically Neemians are humanoid with light blue to purple tints to their skin, often with larger blotches of the color over them. They stand around 5 ft tall but with typically muscular builds. They have thick black hair that is kept short for both the male and female of the race.
+
+###### Traits & Boosts
+
+**Boosts**: Strength +2, Constitution +1
+
+**Battle cry**: +2 to initiative
+
+**Thrill of victory**: Gain 2 HP when you land the killing blow on an target
 
 
 
@@ -108,6 +153,14 @@ Voe'er try to maintain peaceful relationships with all races but will keep races
 Voe'er can live to nearly a millennium, with an average around 850 years. However their reproductive cycle is long and children are born sparingly, so their numbers are relatively small compared to the population of *The Sphere* as a whole (only accounting for around around 1 billion).
 
 Physically a Voe'er typically stands around 4ft tall, with a slightly stocky build. While humanoid their skin is made up of a crystalline structure that grows throughout their lifespan. As they age it begins to extrude from them. Many of the oldest Voe'er use adept abilities to levitate as their skin will cause their joints to become stiff and harder to move.
+
+###### Traits & Boosts
+
+**Boosts**: Wisdom +2
+
+**The old ones**: Your Adept abilities are cast with *Wisdom*, and you have advantage on *History* checks
+
+**Crystalline hide**: Enemies have *disadvantage* when attacking you with *martial* weapons
 
 
 

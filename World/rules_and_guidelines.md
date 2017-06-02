@@ -24,7 +24,26 @@ Keep all of these options and more in mind when you are adventuring.
 
 ###### Inter-planetary travel
 
-The big leap is to planet-to-planet travel. In this world FTL travel has existed for quite some time and is very sophisticated and safe. However it is not a blink, the furthest distances you will most likely travel within *The Sphere* will still take your party a week or more of travel time. For this reason it is usually suggested to limit space travel to a relative minimum. This mainly means jumping planets should hold great significance to the plot of the adventure.
+The big leap is to planet-to-planet travel. In this world FTL travel has existed for quite some time and is very sophisticated and safe. However it is not a blink, the furthest distances you will most likely travel within *The Sphere* will still take your party a week or more of travel time (while shorter distances, which will be more typical, will likely be a couple of days). For this reason it is usually suggested to limit space travel to a relative minimum. This mainly means jumping planets should hold great significance to the plot of the adventure.
 
 > Having encounters or portions of your campaign take place on-board a inter-planetary vessel can be an interesting way to adventure. Keep an open mind while writing new campaigns!
 
+To take an interplanetary vessel your party must make their way to a *Waypoint* (A large shipyard and dock for space ships of all manner). On larger planets there maybe 2-3 but typically there is only one, located in the largest city on the planet. From here you may charter a ticket onto a civilian class ship which will carry a couple hundred people from one planet to another, or you can make use of smaller private ships.
+
+Private ships are extremely costly, so it is quite a pipe-dream for adventurers such as yourselves having one for your party. However a rich financer, government contract, or other such adventure may call for your party obtaining one of these vessels. If you do manage to get a private vessel it is suggested that you have a party member proficient in *Vehicle piloting* to make rolls for you on your journey, lest misfortune befall your crew.  Common Shipping lanes tend to be rather clear of all manner of miscreants, especially near highly populous planets in the center of *The Sphere*. However, as your adventures may draw you into more empty space, or less traveled sectors you may come across some trouble as you fly. Your pilot should be proficient in flight, but the rest of the party may have to man the guns to take on enemies. Using dexterity checks you will treat battle in space similarly to that on the ground. 
+
+> In each campaign the writer or DM will come up with the stats and number of guns aboard your ship, and those on the enemies as well.
+
+While the main shipping lanes *tend* to be safer, trouble will come to civilian class ships as well!
+
+---
+
+
+
+### Currency - *The Infamous Credit*
+
+Like every good sci-fi world, the material presence of high-priced metals is now heavily out-weighed by a massive population. Gold, Silver, and Bronze pieces don't quite make sense in this world so we will introduce the classic; **Credit**. In its establishment **R.O.L** made a standard currency for all worlds and people living within it.
+
+> Think of a single credit as a *Bronze* piece. One alone isn't worth much, so you will probably have quite a bit on your person at all times.
+
+While staying in the inner-zones of *The Sphere* your credits will always be good. However when dealing with bandits and rebels you may have to barter and trade them for goods & services. So it might be a good idea to have some stuff on you for this purpose when heading into more *chaotic* territory.

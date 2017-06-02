@@ -210,7 +210,9 @@ Physically Rieandi are around 6ft tall with long arms and partially webbed finge
 
 **Amphibious**: Have advantage on all ability checks in water, can hold their breath for almost an hour.
 
-**Navigator of the Stars**: Increase the parties movement when moving between planets by 1.5
+**Eye of the navigator**: Increase the parties movement when moving long-distances by 1.5
+
+**Merchants Intuition**: Has advantage on checks to determine worth of objects
 
 
 

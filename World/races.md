@@ -52,8 +52,6 @@ Humans relations are typically floating in a grey area with most of the other ra
 
 #### Kol
 
-> ( the o is pronounced at the back of the throat)
-
 ###### Backstory
 
 The Kol are an older race that has existed deep within *The Sphere* since their species inception. Often cited as the first race to become master Adepts, they consistently produce high-level Adept. Kol hold the Adept abilities is high regard and believe it to be a gift bestowed upon sentient life by *"The Presence"*. *"The Presence"* is how the Kol refer to the universe, as they believe it to be a living being. While the race is heavily based upon connection to *The Presence* and the Adept ability, around 0.5% of the population is considered *"barren"* and are devoid of any ability. Many of these *barren* feel less attached to the belief system of the Kol or even vindictive towards it. Typically the only *enhanced* Kol are from the *barren* as the addition to their bodies is seen as a slight towards the processes that made them.
@@ -98,7 +96,7 @@ You are a Kol born with no Adept ability and therefore lose your *True Adept* tr
 
 **Boosts**: Intelligence +2
 
-**Weapons Training**: gain proficiency with all *Guns*
+**Weapons Training**: gain proficiency with all  non-heavy *Guns*
 
 ---
 
@@ -130,7 +128,7 @@ Physically Neemians are humanoid with light blue to purple tints to their skin, 
 
 ###### Traits & Boosts
 
-**Boosts**: Strength +2, Constitution +1
+**Boosts**: Strength +1, Constitution +2
 
 **Battle cry**: +2 to initiative
 
@@ -180,10 +178,52 @@ Physically a Voe'er typically stands around 4ft tall, with a slightly stocky bui
 
 ###### Backstory
 
+Hailing from a planet with almost no land masses the Rieandi have evolved to live on and around the water.  The Rieandi are not entirely aquatic but more amphibious as they can spend alot of time in the water, but choose to live and build ontop of the water. 
+
+The species had divided itself into kingdoms that spanned large parts of the globe.  Each of the clans holds great honor in their kingdoms and are loyal to the royalty that rule them. 
+
+While their technology is highly specialized to their oceanic needs and they had not discovered space travel, after being gifted it by the Voe'er they became a highly mercantile people. The base of the oceans hold vast mineral riches that sell for extremely high prices on other worlds. As large amounts of wealth pour into the world the Kingdoms have become even more powerful.
+
 ###### Alignment
+
+Typically highly aligned with the laws and traditions of their kingdoms. They are usually align with good and are kind to those around them.
 
 ###### Culture
 
+Highly mercantile many Rieandi travel around to peddle wares and resources. However on the planet they take part in the economy and traditions of their kingdoms. Most work soley for the benefit of their respective royal families.
+
+The Rieandi have a tendency towards partying and celebration. The kingdoms have long enstated many holidays and tradition based celebrations to boost the moral and support of their people. You can often find them in bars and taverns across the stars.
+
 ###### Relations
 
+The Rieandi get along well with basically all other races due to their mercantile trade. They are very common in all parts of *The Sphere* and have pioneered most of the popular trade routes between the planets. Usually seeing a Rieandi means one of two things (or both) theres about to be a party, or you can buy some really awesome stuff.
+
 ###### Physical Traits
+
+The Rieandi live to around 120 years old and are considered adults around 20 years old.
+
+Physically Rieandi are around 6ft tall with long arms and partially webbed fingers and toes. Their front-side is a light grey sandy color, and the light-green on their backs.
+
+###### Traits & Boosts
+
+**Boosts**: Charisma +2, Strength +1
+
+**Amphibious**: Have advantage on all ability checks in water, can hold their breath for almost an hour.
+
+**Navigator of the Stars**: Increase the parties movement when moving between planets by 1.5
+
+
+
+###### Sub Races
+
+**Arctic Rieandi**
+
+Rieandi that have taken up residence in the large glacier covered arctic caps. While physically they are fairly similar, their skin is typically much lighter and closer to white and grey. They are also typically more attunded to Adept abilities.
+
+**Boosts**: Dexterity +1
+
+**Heart of Cold**: Reistance to cold damage.
+
+
+
+**Island Rieandi**

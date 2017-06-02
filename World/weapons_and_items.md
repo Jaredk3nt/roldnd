@@ -4,13 +4,23 @@
 
 ###### Light Armor
 
+**Flight suit**: AC 11, weight 20
 
+**-**: AC 12, weight 25
 
 ###### Medium Armor
 
+**Flak Jacket**: AC 13, weight 30
 
+**Combat Guard**: AC 14, weight 40
 
 ###### Heavy Armor
+
+**Marine Armor**: AC 15, weight 45, *Stealth* disadvantage
+
+**Ballistics Armor**: AC 16, weight 60, *Stealth* disadvantage
+
+**Cyber Suit**: AC 18, weight 70, *Stealth* disadvantage, Movement -5 ft, *Constitution* + 1
 
 ---
 

@@ -134,11 +134,11 @@ The adept are ones who can channel energy from the world around them to perform 
 
 >  With mild physical enhancements Strikers tend to fight at range or to an enemies disadvantage. With the widest range of possibilities most Strikers will often have a distinct reason for their specific enhancement.
 >
-> - Mechanical legs that allow them to run or jump extremely well
-> - Computer assisted vision that gives them impeccable aim
-> - Pseudo-invisibility that allows them to strike from the shadows
+>  - Mechanical legs that allow them to run or jump extremely well
+>  - Computer assisted vision that gives them impeccable aim
+>  - Pseudo-invisibility that allows them to strike from the shadows
 >
-> Many Strikers are already very proficient in their area and chose to get a specific enhancement to further place them ahead of the pack.
+>  Many Strikers are already very proficient in their area and chose to get a specific enhancement to further place them ahead of the pack.
 
 ###### Hit points
 
@@ -174,7 +174,7 @@ The adept are ones who can channel energy from the world around them to perform 
 **Enhanced Upgrade (lv.5)**: You get an improvement to your upgrade
 
 - **Cybernetic eyes**: If your natural roll is the targets AC it counts as a critical hit
--  **Cybernetic legs**: You are immune to opportunity attacks
+- **Cybernetic legs**: You are immune to opportunity attacks
 - **Cybernetic skin**: You can take a hide action as your bonus action on all turns
 - **Cybernetic arms**: 
 

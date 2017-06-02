@@ -14,4 +14,6 @@ Based in Humanities far future: a collection of alien species have formed a coal
 - The **Campaigns** folder contains all of the campaigns created for **R.O.L.**
 - **Resources** holds all of the image assets for any of the files.
 
-We gladly accept (and encourage) campaigns and additions written by the community! Its what will keep our open-source project alive.
+#### Contributing to ROL
+
+We gladly accept (and encourage) campaigns and additions written by the community! Its what will keep our open-source project alive. If you want to contribute simply make a pull-request with any additions you want to make and we will look them over. If you see any errors, think something is unbalanced, or have any  comment or concern feel free to submit an issue.

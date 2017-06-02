@@ -78,9 +78,9 @@ Physically the Kol are humanoid and stand around 6.5ft tall and have longer legs
 
 ###### Traits & Boosts
 
-**Boosts**: Dexterity +2
+**Boosts**: Dexterity +2, Wisdom +1
 
-**One with the Universe**: Gain proficiency in *Insight*
+**One with the Universe**: You cast your Adept abilities with dexterity
 
 **Long legged**: Only take an extra 0.5 ft. for every foot of difficult terrain
 
@@ -94,9 +94,9 @@ Physically the Kol are humanoid and stand around 6.5ft tall and have longer legs
 
 You are a Kol born with no Adept ability and therefore lose your *True Adept* trait and must be from an enhanced class.
 
-**Boosts**: Intelligence +2
+**Boosts**: Intelligence +1
 
-**Weapons Training**: gain proficiency with all  non-heavy *Guns*
+**Weapons Training**: gain proficiency with all non-heavy *Guns*
 
 ---
 
@@ -164,9 +164,9 @@ Physically a Voe'er typically stands around 4ft tall, with a slightly stocky bui
 
 ###### Traits & Boosts
 
-**Boosts**: Wisdom +2
+**Boosts**: Wisdom +3
 
-**The old ones**: Your Adept abilities are cast with *Wisdom*, and you have advantage on *History* checks
+**The old ones**:  You have advantage on *Wisdom* checks
 
 **Crystalline hide**: Enemies have *disadvantage* when attacking you with *melee* weapons
 
@@ -210,7 +210,9 @@ Physically Rieandi are around 6ft tall with long arms and partially webbed finge
 
 **Amphibious**: Have advantage on all ability checks in water, can hold their breath for almost an hour.
 
-**Navigator of the Stars**: Increase the parties movement when moving between planets by 1.5
+**Eye of the navigator**: Increase the parties movement when moving long-distances by 1.5
+
+**Merchants Intuition**: Has advantage on checks to determine worth of objects
 
 
 

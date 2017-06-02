@@ -18,8 +18,8 @@ The **R.O.L.** is made up of 11 systems that exist within a block of space appro
 
 ###### Planets
 
-- SheiShe
-  - The original home world of the Rieandi people, SheiShe is 90% covered by oceans. While land mass is limited there are tribes of the Rieandi that have taken up on both the solid soil and the glacial poles.
+- Sheishe
+  - The original home world of the Rieandi people, Sheishe is 90% covered by oceans. While land mass is limited there are tribes of the Rieandi that have taken up on both the solid soil and the glacial poles.
 - No'er
   - The birthplace of the **R.O.L** and the Voe'er people. No'er is a large terran planet near the center of *The Sphere* orbiting a white dwarf star. Crystalline structures litter the landscape and mimic the appearance of the race that evolved from its surface.
 

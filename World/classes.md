@@ -28,7 +28,7 @@ Adept abilities are cast using the *Dexterity* ability, unless your race has fea
 
 **Armor**: *none*
 
-**Weapons**: *Staffs*, *pistols*
+**Weapons**: *simple*, *pistols*
 
 **Skills**: Choose 2 from *Insight*, *Persuasion*, *Perception*, *Deception*, *Intimidation*, *History*
 
@@ -62,7 +62,7 @@ Adept abilities are cast using the *Dexterity* ability, unless your race has fea
 
 **Armor**: *Light Armor*, *Medium Armor*
 
-**Weapons**: *Martial Weapons*, *Body*
+**Weapons**: *Simple*, *Martial*, *Body*
 
 **Skills**: Choose 2 from *Acrobatics*, *Survival*, *Perception*, *Sleight of Hand*, *Intimidation*, *History*
 
@@ -89,7 +89,9 @@ Adept abilities are cast using the *Dexterity* ability, unless your race has fea
 
 ## The Enhanced
 
->  The enhanced are non-adept who have either used cybernetic enhancements or external tech to thrive. They are typically sub classed into (however taking on many forms due to the ability to mix-and-match so much): The *Bulwark*, the *Striker*, and the *Portent*. 
+The enhanced are non-adept who have either used cybernetic enhancements or external tech to thrive. They are typically sub classed into (however taking on many forms due to the ability to mix-and-match so much): The *Bulwark*, the *Striker*, and the *Portent*. 
+
+> In the inner-zones full "cyberization" is seen as taboo, so enhanced will typically limit their physical changes as much as possible. Use this knowledge to create interesting reasons and backstory as to why they made some of these changes. Don't make your character too powerful by having an answer to everything, make sure they have flaws as well.
 
 #### Bulwark
 
@@ -107,7 +109,7 @@ Adept abilities are cast using the *Dexterity* ability, unless your race has fea
 
 **Armor**: *Medium Armor*, *Heavy Armor*
 
-**Weapons**: *Martial Weapons*
+**Weapons**: *Martial Weapons*, *pistols*
 
 **Skills**: Choose 2 from *Animal Handling*, *Athletics*, *Intimidation*, *Survival*, *Vehicle Piloting*
 
@@ -154,7 +156,7 @@ Adept abilities are cast using the *Dexterity* ability, unless your race has fea
 
 **Armor**: *Light Armor*, *Medium Armor*, *Heavy Armor*
 
-**Weapons**: *Martial Weapons*, *Pistols*, *Long Guns*
+**Weapons**: *simple*, *Martial*, *Pistols*, *Long Guns*
 
 **Skills**: Choose 2 from *Acrobatics*, *Athletics*, *Investigation*, *Perception*, *Stealth*, *Vehicle Piloting*
 
@@ -203,7 +205,7 @@ Adept abilities are cast using the *Dexterity* ability, unless your race has fea
 
 **Armor**: *Light Armor*
 
-**Weapons**: *Simple Weapons*
+**Weapons**: *Simple Weapons*, *pistols*
 
 **Skills**: Choose 2 from *History*, *Insight*, *Investigation*, *Medicine*, *Perception*, *Persuasion*, *Technology*, *Vehicle Piloting*
 
@@ -247,4 +249,3 @@ Adept abilities are cast using the *Dexterity* ability, unless your race has fea
 
 - > WIP
 
-> In the inner-zones full "cyberization" is seen as taboo, so enhanced will typically limit their physical changes as much as possible. Use this knowledge to create interesting reasons and backstory as to why they made some of these changes. Don't make your character too powerful by having an answer to everything, make sure they have flaws as well.

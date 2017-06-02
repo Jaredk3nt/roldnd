@@ -227,3 +227,8 @@ Rieandi that have taken up residence in the large glacier covered arctic caps. W
 
 
 **Island Rieandi**
+
+On the little land that does exist on their home planet, some Rieandi have chosen a slightly more terran based life. While still relatively proficient in the sea compared to other races, they pale in comparison to their ocean brethren. 
+
+**Boosts**: Strength +1
+

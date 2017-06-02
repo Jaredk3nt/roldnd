@@ -6,7 +6,9 @@ The classes are broken into two main categories; the adept and the enhanced. pur
 
 ## The Adept
 
-The adept are ones who can channel energy from the world around them to perform a variety of tasks. They are typically sub classed into: the *Congit*(or sensory), and the *Knight* which are defined by their typical manifestation of their abilities. Although there are divisions between these users many of the abilities are not solely purposed for one or another, they are merely the categories that best show the typical cases.
+The adept are ones who can channel energy from the world around them to perform a variety of tasks. They are typically sub classed into: the *Congit*(or sensory), and the *Knight* which are defined by their typical manifestation of their abilities. Although there are divisions between these users many of the abilities are not solely purposed for one or another, they are merely the categories that best show the typical cases. 
+
+Adept abilities are cast using the *Dexterity* ability, unless your race has features denoting otherwise.
 
 #### Cognit
 

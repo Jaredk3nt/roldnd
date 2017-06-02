@@ -16,6 +16,13 @@ This world is based roughly 1000 years into humanity's future. FTL is discovered
 
 The **R.O.L.** is made up of 11 systems that exist within a block of space approx. 5 light years (1.54 parsecs) across at its widest berth. The area is colloquially called *The Sphere* by its inhabitants because the over all "sphere-ish" shape of the region. Giving the abundance of "Goldilocks" zone planets (approx. 1 per system) plus quite a few habitable moons, life flourished in the area giving rise to many different species.
 
+###### Planets
+
+- SheiShe
+  - The original home world of the Rieandi people, SheiShe is 90% covered by oceans. While land mass is limited there are tribes of the Rieandi that have taken up on both the solid soil and the glacial poles.
+- No'er
+  - The birthplace of the **R.O.L** and the Voe'er people. No'er is a large terran planet near the center of *The Sphere* orbiting a white dwarf star. Crystalline structures litter the landscape and mimic the appearance of the race that evolved from its surface.
+
 > WIP
 
 #### Governmental systems

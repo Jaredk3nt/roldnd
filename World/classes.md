@@ -8,7 +8,7 @@ The classes are broken into two main categories; the adept and the enhanced. pur
 
 The adept are ones who can channel energy from the world around them to perform a variety of tasks. They are typically sub classed into: the *Congit*(or sensory), and the *Knight* which are defined by their typical manifestation of their abilities. Although there are divisions between these users many of the abilities are not solely purposed for one or another, they are merely the categories that best show the typical cases. 
 
-Adept abilities are cast using the *Dexterity* ability, unless your race has features denoting otherwise.
+Adept abilities are cast using the *Wisdom* ability, unless your race has features denoting otherwise.
 
 #### Cognit
 
@@ -22,7 +22,7 @@ Adept abilities are cast using the *Dexterity* ability, unless your race has fea
 
 **HP**: 6 + your *Constitution* modifier per level
 
-**Saving Throws**: *Dexterity*, *Wisdom*
+**Saving Throws**: *Wisdom*, *Intelligence*
 
 ###### Proficiencies
 
@@ -56,7 +56,7 @@ Adept abilities are cast using the *Dexterity* ability, unless your race has fea
 
 **HP**: 8 + your *Constitution* modifier per level
 
-**Saving Throws**: *Dexterity*, *Wisdom*
+**Saving Throws**:  *Wisdom*, *Dexterity*
 
 ###### Proficiencies
 

@@ -152,4 +152,4 @@
 >
 > You kneel down and blast energy through the earth around you, creating difficult terrain in a 60ft wide wave up to 60ft in front of your character.
 
-##### ---
+##### ---	

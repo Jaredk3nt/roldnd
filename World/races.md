@@ -12,9 +12,9 @@ Mold breaking is highly encouraged and can give very interesting back story to y
 
 ###### Backstory
 
-One of the newest races to join *The Sphere*, they have flourished in every part of life. From governmental duty, military service, trading & transporting, to more nefarious trades like pirating and black markets humans find their role. 
+One of the newest races to join *The Sphere*, (having only arrived around a century ago) they have flourished in every part of life. From governmental duty, military service, trading & transporting, to more nefarious trades like pirating and black markets humans find their role. 
 
-Only about 3-4% of the human population is considered to be Adept, and even fewer show high level or mastery with the abilities. However, despite this data shows that more are being born every generation. To this end Humans are typically cybernetically enhanced in some way or another. In fact Humans led the movement towards increased cyberization due to their technology that outmatches most of what the other races have had before their arrival. This increase in technology is due to the long journey the humans had to overcome before reaching *The Sphere*. Humans take great pride in their technological achievements, as this is typically the only thing that keeps the older races respectful of humans.
+Only about 3-4% of the human population is considered to be Adept, and even fewer show high level or mastery with the abilities. Thus the adept are treated as highly special, often revered by those around them. Before arriving in *The Sphere* many humans referred to these abilities as magic or witchcraft. However, despite this data shows that more are being born every generation, many believing that living within *The Sphere* has caused this somehow. To this end Humans are typically cybernetically enhanced in some way or another. In fact Humans led the movement towards increased cyberization due to their technology that outmatches most of what the other races have had before their arrival. This increase in technology is due to the long journey the humans had to overcome before reaching *The Sphere*. Humans take great pride in their technological achievements, as this is typically the only thing that keeps the older races respectful of humans.
 
 The human race is typically considered to be split into two main factions, though these lines are not as black & white as many make them out to be. The first is the humans aligning with the galactic governmental system, and the second being those that reject the ideals of the government due to tough relations with some of the other races (read more in the *relations* section). How each individual aligns will heavily affect their backstory, occupation, and alignment. 
 
@@ -56,7 +56,9 @@ Humans relations are typically floating in a grey area with most of the other ra
 
 The Kol are an older race that has existed deep within *The Sphere* since their species inception. Often cited as the first race to become master Adepts, they consistently produce high-level Adept. Kol hold the Adept abilities is high regard and believe it to be a gift bestowed upon sentient life by *"The Presence"*. *"The Presence"* is how the Kol refer to the universe, as they believe it to be a living being. While the race is heavily based upon connection to *The Presence* and the Adept ability, around 0.5% of the population is considered *"barren"* and are devoid of any ability. Many of these *barren* feel less attached to the belief system of the Kol or even vindictive towards it. Typically the only *enhanced* Kol are from the *barren* as the addition to their bodies is seen as a slight towards the processes that made them.
 
-They hold religious like beliefs in protecting and respecting the universe. While typically neutral and calm-natured Kol are easily provoked when another **blatantly** offends their religious code. This is dangerous as the high level of Adept ability of a Kol can prove devastating to an offender. Most other races choose to stray away from offending a Kol.
+They hold religious like beliefs in protecting and respecting the universe. While typically neutral and calm-natured Kol are easily provoked when another **blatantly** offends their religious code. However many Kol are expert fighters they tend to avoid military service or participating in any fights within *The Sphere*. They will often aide the R.O.L by acting as mediators or ambassadors in conflicts, often being messengers between factions.
+
+As is part of their upbringing as Adept many Kol go on Missions to spread their ideals and recruit people to join them and train to become stronger Adept.
 
 ###### Alignment
 
@@ -68,7 +70,11 @@ Their culture is strongly based upon their belief system in *The Presence*. Kol 
 
 ###### Relations
 
-Kol tend to act as a neutral party to all, they have never taken part in any war or large scale fight of any kind. Most consider this due to others fear of their abilities, and the Kol's nature to not take out the actions of one on any others. While their relations are generally good with all of the species residing in *The Sphere*, Kol often act with an air of superiority towards non-Adept's.
+Kol tend to act as a neutral party to all, they have never taken part in any war or large scale fight of any kind. Most consider this due to others fear of their abilities, and the K
+
+
+
+ol's nature to not take out the actions of one on any others. While their relations are generally good with all of the species residing in *The Sphere*, Kol often act with an air of superiority towards non-Adept's.
 
 ###### Physical Traits
 
@@ -106,7 +112,7 @@ You are a Kol born with no Adept ability and therefore lose your *True Adept* tr
 
 ###### Backstory
 
-Neemians are a younger race from the furthest planet from the Voe'er's home world. Kept at an arms distance in the **R.O.L** the neemians have tendencies towards violence and conquering. In Neem culture victory is viewed as the ultimate prize at the cost of all other things. This has caused rather strange events in the past of their race as many will leave a side that is seen to be losing a battle. After the Neemian gained FTL travel they started a war over a nearby moon against the Rieandi that was broken up swiftly by the Voe'er, who now keep a watchful eye over their world.
+Neemians are a younger race from the furthest planet from the Voe'er's home world. Kept at an arms distance in the **R.O.L** the neemians have tendencies towards violence and conquering. In Neem culture victory is viewed as the ultimate prize at the cost of all other things. This has caused rather strange events in the past of their race as many will leave a side that is seen to be losing a battle. After the Neemian gained FTL travel they started a war over a nearby moon against the Rieandi that was broken up swiftly by the Voe'er, who now keep a watchful eye over their world. Due to the large powers of the Voe'er and the **R.O.L** combined military they have since retreated from conquest, fearing a swift defeat from such a large and advanced army. Many Neem outraged at this show of weakness and "defeat" against the Rieandi, although no end was actually found, have left their home planet for personal conquests of their own. Often becoming pirates or mercenaries in the outlying areas.
 
 They were extremely open to the introduction of cybernetics by the Humans, and have adopted them into their daily lives.
 
@@ -124,7 +130,9 @@ Neem culture is best described through their battle chant "Victory above all".
 
 Neemians have a shorter life, with an average around 60. They mature quickly though and are considered to be adults at 14 years old.
 
-Physically Neemians are humanoid with light blue to purple tints to their skin, often with larger blotches of the color over them. They stand around 5 ft tall but with typically muscular builds. They have thick black hair that is kept short for both the male and female of the race.
+Physically Neemians are humanoid with light blue to purple tints to their skin, often with larger blotches of the color over them. 
+
+They stand around 5 ft tall but with typically muscular builds. They have thick black hair that is kept short for both the male and female of the race.
 
 ###### Traits & Boosts
 
@@ -142,7 +150,9 @@ Physically Neemians are humanoid with light blue to purple tints to their skin, 
 
 ###### Backstory
 
-The original founders of *The Republic of Life*, they are an extremely old race that achieved planetary space travel millennia ago. Their genesis was in one of the central systems, where they began to expand from finding many of the other races and gifting them with the ability to launch to the stars. After uncovering multiple other sentient species they decided to start a large scale republic to provide peace among them. The Voe'er had rocky starts on their home world. Their species was plagued by war in its infancy. This is what drives them to strongly uphold a fair system of laws, to prevent the cycle of death their species had once gone through. As founders of the government it is typically considered part of a Voe'er's duty to serve it in some form for part of their exceedingly long lives. Those who deny this service are often banished from their ranks and their home worlds sanctums, and labeled disgraces to the goal they have worked towards for thousands of years.
+The original founders of *The Republic of Life*, they are an extremely old race that achieved planetary space travel millennia ago. Their genesis was in one of the central systems, where they began to expand from finding many of the other races and gifting them with the ability to launch to the stars. After uncovering multiple other sentient species they decided to start a large scale republic to provide peace among them. The Voe'er had rocky starts on their home world. Their species was plagued by war in its infancy. This is what drives them to strongly uphold a fair system of laws, to prevent the cycle of death their species had once gone through. They will look for non-violent ends to any conflict in *The Sphere*, like trade embargos, or economic sanctions. However if these methods do not work the Voe'er hold a large council to decide if the use of force is truly required to uphold the peace, and if so will bring fierce power upon the delinquent parties. Large scale military action is considered the true last resort though.
+
+As founders of the government it is typically considered part of a Voe'er's duty to serve it in some form for part of their exceedingly long lives. Those who deny this service are often banished from their ranks and their home worlds sanctums, and labeled disgraces to the goal they have worked towards for thousands of years.
 
 ###### Alignment
 

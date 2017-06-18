@@ -56,7 +56,7 @@ Adept abilities are cast using the *Wisdom* ability, unless your race has featur
 
 **HP**: 8 + your *Constitution* modifier per level
 
-**Saving Throws**:  *Wisdom*, *Dexterity*
+**Saving Throws**:  *Wisdom*, *Strength*
 
 ###### Proficiencies
 
@@ -64,7 +64,7 @@ Adept abilities are cast using the *Wisdom* ability, unless your race has featur
 
 **Weapons**: *Simple*, *Martial*, *Body*
 
-**Skills**: Choose 2 from *Acrobatics*, *Survival*, *Perception*, *Sleight of Hand*, *Intimidation*, *History*
+**Skills**: Choose 2 from *Acrobatics*, *Athletics*, *Survival*, *Perception*, *Sleight of Hand*, *Intimidation*, *History*
 
 ###### Starting Equipment
 
@@ -74,7 +74,9 @@ Adept abilities are cast using the *Wisdom* ability, unless your race has featur
 
 **Adept Body**: You have the ability to fight with no weapons and gain the following abilities when you are unarmed:
 
-- You use *Dexterity* for attack rolls
+- Punch & Kick are added to your attack list
+
+
 - You can take a *Bonus Action* on all unarmed attacks
 
 **Cantrips**: At first level you know 3 cantrips from the Adept & Knight abilities list
@@ -84,6 +86,43 @@ Adept abilities are cast using the *Wisdom* ability, unless your race has featur
 **Materialization (lv.5)**: You gain the ability to materialize *energy weapons*
 
 ---
+
+#### Controller
+
+> Controllers are a potion of Adept that can imbue their abilities into the world around them and use the elements to their benefit. Controllers elemental abilities are not strict, however the elements all have a unique pattern to their energy so many become attuned to a specific element to master it properly. 
+
+###### Hit points
+
+**Hit Dice**: 1d8 per level
+
+**HP**: 8 + your *Constitution* modifier per level
+
+**Saving Throws**:  *Wisdom*, *Intelligence*
+
+###### Proficiencies
+
+**Armor**: *Light Armor*
+
+**Weapons**: *Simple*, *Martial*
+
+**Skills**: Choose 2 from *Acrobatics*, *Survival*, *Perception*, *Sleight of Hand*, *Intimidation*, *History*
+
+###### Starting Equipment
+
+> Equipment WIP
+
+###### Abilities
+
+**Elemental Tune**: You become attuned to a starting element and gain a *Controller elemental* cantrip
+
+- Air - gain the *gust* cantrip
+- Fire - gain the *torch* cantrip
+- Water - gain the *shard* cantrip
+- Earth - gain the *shift* cantrip 
+
+**Cantrips**: At first level you know 2 cantrips from the Adept & Controller abilities list
+
+**Stored Energy**: To cast abilities above Lv. 0 you will use up your stored energy. You can find how much energy you can store based on the *Controller Leveling Table* 
 
 
 

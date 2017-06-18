@@ -12,11 +12,11 @@ Mold breaking is highly encouraged and can give very interesting back story to y
 
 ###### Backstory
 
-One of the newest races to join *The Sphere*, they have flourished in every part of life. From governmental duty, military service, trading & transporting, to more nefarious trades like pirating and black markets humans find their role. 
+One of the newest races to join *The Sphere*, they have flourished in every part of life. From governmental duty, military service, trading & transporting, to more nefarious trades like pirating and black markets humans find their role.
 
 Only about 3-4% of the human population is considered to be Adept, and even fewer show high level or mastery with the abilities. However, despite this data shows that more are being born every generation. To this end Humans are typically cybernetically enhanced in some way or another. In fact Humans led the movement towards increased cyberization due to their technology that outmatches most of what the other races have had before their arrival. This increase in technology is due to the long journey the humans had to overcome before reaching *The Sphere*. Humans take great pride in their technological achievements, as this is typically the only thing that keeps the older races respectful of humans.
 
-The human race is typically considered to be split into two main factions, though these lines are not as black & white as many make them out to be. The first is the humans aligning with the galactic governmental system, and the second being those that reject the ideals of the government due to tough relations with some of the other races (read more in the *relations* section). How each individual aligns will heavily affect their backstory, occupation, and alignment. 
+The human race is typically considered to be split into two main factions, though these lines are not as black & white as many make them out to be. The first is the humans aligning with the galactic governmental system, and the second being those that reject the ideals of the government due to tough relations with some of the other races (read more in the *relations* section). How each individual aligns will heavily affect their backstory, occupation, and alignment.
 
 ###### Alignment
 
@@ -28,7 +28,7 @@ Lawful humans will tend towards good and will hold positions either in governmen
 
 Human culture is based on a storied past in terran based life. They hold strong attachment to natural worlds and will often keep mementos of these things while in space. Typically humans love things that come from natural materials or worlds, such as cotton clothing or naturally grown food. Many humans will adorn their residences with plant-life and wool or cotton blankets and rugs when they can afford to.
 
-Humans also greatly enjoy many forms of entertainment and will often go out of their way to have fun or be entertained. 
+Humans also greatly enjoy many forms of entertainment and will often go out of their way to have fun or be entertained.
 
 ###### Relations
 
@@ -178,9 +178,9 @@ Physically a Voe'er typically stands around 4ft tall, with a slightly stocky bui
 
 ###### Backstory
 
-Hailing from a planet with almost no land masses the Rieandi have evolved to live on and around the water.  The Rieandi are not entirely aquatic but more amphibious as they can spend alot of time in the water, but choose to live and build ontop of the water. 
+Hailing from a planet with almost no land masses the Rieandi have evolved to live on and around the water.  The Rieandi are not entirely aquatic but more amphibious as they can spend alot of time in the water, but choose to live and build ontop of the water.
 
-The species had divided itself into kingdoms that spanned large parts of the globe.  Each of the clans holds great honor in their kingdoms and are loyal to the royalty that rule them. 
+The species had divided itself into kingdoms that spanned large parts of the globe.  Each of the clans holds great honor in their kingdoms and are loyal to the royalty that rule them.
 
 While their technology is highly specialized to their oceanic needs and they had not discovered space travel, after being gifted it by the Voe'er they became a highly mercantile people. The base of the oceans hold vast mineral riches that sell for extremely high prices on other worlds. As large amounts of wealth pour into the world the Kingdoms have become even more powerful.
 
@@ -230,7 +230,28 @@ Rieandi that have taken up residence in the large glacier covered arctic caps. W
 
 **Island Rieandi**
 
-On the little land that does exist on their home planet, some Rieandi have chosen a slightly more terran based life. While still relatively proficient in the sea compared to other races, they pale in comparison to their ocean brethren. 
+On the little land that does exist on their home planet, some Rieandi have chosen a slightly more terran based life. While still relatively proficient in the sea compared to other races, they pale in comparison to their ocean brethren.
 
 **Boosts**: Strength +1
 
+#### Bakeh
+##### Backstory
+
+The Bakeh are a less advanced race in *the sphere*, at the inception of the R.O.L they were still living in tribal groups. This cultural development is mostly attributed to the strange geography of their home world. Their planet, in the Motanous system, is comprised of a highly acidic ocean that covers most of the planet. However above the planet-wide ocean floats a collection of island like landmasses that are suited for development of life. Due to the relatively small size of each individual landmass and the distances that they span from one another the Bakeh clumped into these smaller societies. The Bakeh evolved to be able to glide using the massive updrafts that occur near the edge of the islands. They have webbing like flaps under their arms and between their legs that allow them to have some sort of simple flight. Rudimentary air travel using large sails, allows the Bakeh to travel longer distances over the ocean. These "vehicles" tend to be dangerous and can hold very few people at a time due to the lessening of the drafts over open ocean, so large scale colonization took long amounts of time. Near the poles the "islands" tend to become more clumped and are considered the birth place of the Bakeh species, before they began to spread out amongst the islands. These clumpings of islands also hold the larger societies, since many were close enough to allow for personal "flight" between them. While the population is higher in these areas they still maintain tribal structure, usually having a chieftain and a council of elders that leads them.
+
+##### Alignment
+
+
+
+##### Culture
+
+In Bakeh culture they believe in a god-creature that created them and the islands. The gods name is Tourea Bah, they say he flys eternally on the winds with massive bird wings creating new islands. This has led to a belief that explorers are great heroes as they are the ones who are called upon by Tourea Bah to complete the "quest" of discovering all of his islands. Every island bears the name of the hero who originally discovered it. As space travel became avaliable to the Bakeh they took it as the next challenge to discover all of the worlds Tourea Bah had created, so many wander the systems to lay claim to new moons and worlds at the furthest reaches of *the sphere* and beyond.
+
+##### Relations
+##### Physical Traits
+
+The Bakeh are a medium sized species, standing about 4.5 - 5 ft tall. Their defining characteristic is their second set of smaller arms that protrude from the back of their sides, that connect to thin skin membranes on both the main arms and hips. The second arms have no hands but have 3 joints, a shoulder like cup, and two elbow like joints down them, however each elbow joint on a Bakeh can overextend to 180 degrees to allow for maximum control in gliding. They also have a similar membrane between their legs, but it is smaller allowing them for normal movement on the ground as well.
+
+##### Traits & Boosts
+
+##### Subraces

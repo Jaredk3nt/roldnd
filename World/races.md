@@ -235,13 +235,16 @@ On the little land that does exist on their home planet, some Rieandi have chose
 **Boosts**: Strength +1
 
 #### Bakeh
+
 ##### Backstory
 
-The Bakeh are a less advanced race in *the sphere*, at the inception of the R.O.L they were still living in tribal groups. This cultural development is mostly attributed to the strange geography of their home world. Their planet, in the Motanous system, is comprised of a highly acidic ocean that covers most of the planet. However above the planet-wide ocean floats a collection of island like landmasses that are suited for development of life. Due to the relatively small size of each individual landmass and the distances that they span from one another the Bakeh clumped into these smaller societies. The Bakeh evolved to be able to glide using the massive updrafts that occur near the edge of the islands. They have webbing like flaps under their arms and between their legs that allow them to have some sort of simple flight. Rudimentary air travel using large sails, allows the Bakeh to travel longer distances over the ocean. These "vehicles" tend to be dangerous and can hold very few people at a time due to the lessening of the drafts over open ocean, so large scale colonization took long amounts of time. Near the poles the "islands" tend to become more clumped and are considered the birth place of the Bakeh species, before they began to spread out amongst the islands. These clumpings of islands also hold the larger societies, since many were close enough to allow for personal "flight" between them. While the population is higher in these areas they still maintain tribal structure, usually having a chieftain and a council of elders that leads them.
+The Bakeh are a less advanced race in *the sphere*, at the inception of the R.O.L they were still living in tribal groups. This cultural development is mostly attributed to the strange geography of their home world. Their planet (Toureas), in the Motanous system, is comprised of a highly acidic ocean that covers most of the planet. However above the planet-wide ocean floats a collection of island like landmasses that are suited for development of life. Due to the relatively small size of each individual landmass and the distances that they span from one another the Bakeh clumped into these smaller societies. The Bakeh evolved to be able to glide using the massive updrafts that occur near the edge of the islands. They have webbing like flaps under their arms and between their legs that allow them to have some sort of simple flight. Rudimentary air travel using large sails, allows the Bakeh to travel longer distances over the ocean. These "vehicles" tend to be dangerous and can hold very few people at a time due to the lessening of the drafts over open ocean, so large scale colonization took long amounts of time. Near the poles the "islands" tend to become more clumped and are considered the birth place of the Bakeh species, before they began to spread out amongst the islands. These clumpings of islands also hold the larger societies, since many were close enough to allow for personal "flight" between them. While the population is higher in these areas they still maintain tribal structure, usually having a chieftain and a council of elders that leads them.
+
+**Adept** are relatively rare in the Bakeh, but are considered extremely strong and are praised as heroes of lore amongst the tribes. A very common and famous myth amongst the Bakeh tells of an **Adept** so powerful she could control the wind allowing herself to fly completely, and that she joined Tourea Bah (their god) to fly amongst the heavens creating worlds.
 
 ##### Alignment
 
-
+Bakeh are typically neutral and chaotic or good. Their exploratory nature makes them less inclined to try to acquire personal things, and put most of their effort into their journeys.
 
 ##### Culture
 
@@ -250,8 +253,15 @@ In Bakeh culture they believe in a god-creature that created them and the island
 ##### Relations
 ##### Physical Traits
 
-The Bakeh are a medium sized species, standing about 4.5 - 5 ft tall. Their defining characteristic is their second set of smaller arms that protrude from the back of their sides, that connect to thin skin membranes on both the main arms and hips. The second arms have no hands but have 3 joints, a shoulder like cup, and two elbow like joints down them, however each elbow joint on a Bakeh can overextend to 180 degrees to allow for maximum control in gliding. They also have a similar membrane between their legs, but it is smaller allowing them for normal movement on the ground as well.
+The Bakeh are a medium sized species, standing about 4.5 - 5 ft tall. Their defining characteristic is their second set of smaller arms that protrude from the back of their sides, that connect to thin skin membranes on both the main arms and hips. The second arms have no hands but have 3 joints, a shoulder like cup, and two elbow like joints down them, however each elbow joint on a Bakeh can overextend to 180 degrees to allow for maximum control in gliding. They also have a similar membrane between their legs, but it is smaller allowing them for normal movement on the ground as well. The membrane on their body is also covered in tiny fibrous membranes that make them quite silent while moving.
+
+Their facial features are very flat, their olfactory organs are quite small and consist of small openings in the roof of their mouths with skin flaps covering them that can be opened. Their eyes are the largest feature on their face. Their eyes have two sets of eye lids, one clear that cleans and covers their eyes while they fly, and pupils that can expand and contract massive amounts. Bakeh's mouths are also quite large, extending far back to allow them to open quite wide, but they have no lips only microscopic hair like membranes that come together to completely seal their mouths.
+
+Bakeh have a lifespan of around 100 years. However they are very sensitive to different atmospheres and often have to wear respirators and goggles when traveling off of their home planet.
 
 ##### Traits & Boosts
+**Boosts**: Dexterity +3
 
-##### Subraces
+**Ocular**: Bakeh can see in complete darkness as if it were dim, and dim light perfectly.
+
+**Child of the Wind**: Can glide off of high places or in strong updrafts. They have advantage on all acrobatic checks.

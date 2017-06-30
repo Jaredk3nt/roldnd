@@ -48,7 +48,35 @@ Like every good sci-fi world, the material presence of high-priced metals is now
 
 While staying in the inner-zones of *The Sphere* your credits will always be good. However when dealing with bandits and rebels you may have to barter and trade them for goods & services. So it might be a good idea to have some stuff on you for this purpose when heading into more *chaotic* territory.
 
+---
+
 
 
 ### Changes to combat 
+
+In ROL I have made some changes to how combat works in an effort to make it more interactive and "feel" better for the players.
+
+> These changes are based on my personal views on how 5e plays, and are not a requirement for playing ROL! Whatever makes the game most fun to your party is the right way to play.
+
+##### Melee Combat
+
+When fighting someone up close, your attacks are not the only thing happening, the enemy is actively fighting back and vice versa. To better illustrate this interaction Fighting now takes place with checks from both parties in an attack. This fighting system removes the 5e idea of AC and replaces it with a back and forth between the characters.
+
+**First** the attacker makes a roll with a d20 for "control" of the action. This roll gives you a modifier on the next actual attacking roll. The modifier is based on this table:
+
+| 1      | 2-3  | 4-6  | 7-9  | 10-12 | 13-16 | 17-19 | 20   |
+| ------ | ---- | ---- | ---- | ----- | ----- | ----- | ---- |
+| *miss* | -2   | -1   | +0   | +1    | +2    | +3    | hit  |
+
+**Second** both attacker and defender make a roll. The attacker rolls a d20 + the attack style modifier (dexterity or strength) and the "control" value from the first step. Then the defender makes a check with a d20 + defending style (can be dexterity or constitution) and any bonuses their armor may give. 
+
+If the attackers roll is higher they deal damage to the target as usual, below the defenders roll and the damage falls off at a steep rate. 1 below and the target takes half damage, 2 below and the target takes a fourth of the damage. In the case of equal rolls + the modifiers, the attack is said to be a "parry" and both parties roll again.
+
+##### Ranged Combat
+
+Ranged combat is much more about the individual skill of the attacker, rather than the defensive capabilities of the attacked. However it shouldn't be completely non-interactive for the defender, so ranged attack will work on a modified system similar to traditional 5e spells and saves.
+
+The ranged attacker makes a dexterity roll with a d20 for the "hit". If the roll is below 10 the attack misses, if the roll is between 10 - 14 the attack hits, but the target has the opportunity to make a dexterity or constitution saving throw to take half damage (must be higher than the roll the attacker made), a roll of 15-19 is a true hit and the target takes normal damage with no chance of a saving throw, and a 20 or above is a critical hit.
+
+> I intend to thoroughly play test this change to combat and make any balancing changes necessary to it, the weapons, classes, or armor.
 

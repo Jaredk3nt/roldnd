@@ -34,7 +34,7 @@ Private ships are extremely costly, so it is quite a pipe-dream for adventurers 
 
 > In each campaign the writer or DM will come up with the stats and number of guns aboard your ship, and those on the enemies as well.
 
-While the main shipping lanes *tend* to be safer, trouble will come to civilian class ships as well!
+While the main shipping lanes *tend* to be safer, trouble will come to civilian class ships as well! Each campaign will have tables for you to refer to what the party may run into on certain travels, and in specific parts of space.
 
 ---
 
@@ -47,3 +47,8 @@ Like every good sci-fi world, the material presence of high-priced metals is now
 > Think of a single credit as a *Bronze* piece. One alone isn't worth much, so you will probably have quite a bit on your person at all times.
 
 While staying in the inner-zones of *The Sphere* your credits will always be good. However when dealing with bandits and rebels you may have to barter and trade them for goods & services. So it might be a good idea to have some stuff on you for this purpose when heading into more *chaotic* territory.
+
+
+
+### Changes to combat 
+

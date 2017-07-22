@@ -1,16 +1,16 @@
-# Adept Abilities List 
+# Adept Abilities List
 
 ### All Adept
 
 #### Lv. 0
 
-##### Power Touch: 
+##### Power Touch:
 
 > <u>Cast time:</u> 1 action
 >
 > <u>Range:</u> touch
 >
-> Imbue an object or body part with energy that can be released upon hit. The energy lasts until used or the ability is recast. 
+> Imbue an object or body part with energy that can be released upon hit. The energy lasts until used or the ability is recast.
 >
 > Roll 1d6 + 1 energy damage. Increases by 1d6 damage every 5 levels maxing at 4d6 at lv. 15.
 
@@ -152,4 +152,50 @@
 >
 > You kneel down and blast energy through the earth around you, creating difficult terrain in a 60ft wide wave up to 60ft in front of your character.
 
-##### ---	
+---
+
+
+
+### Controller Specific Abilities
+
+#### Lv. 0
+
+##### Gust
+
+> <u>Cast time:</u> 1 action
+>
+> <u>Range:</u> 30 feet
+>
+> <u>Duration:</u> instant
+>
+> You create a buffeting gust of wind in the area, pushing back smaller characters 15 feet. All characters make a dexterity saving throw of 10 + your Adept lv. if they fail they take 1d4 bludgeoning damage.
+
+##### Torch
+
+> <u>Cast time:</u> 1 action
+>
+> <u>Range:</u> touch
+>
+> <u>Duration:</u> instant
+>
+> You create a burst of flame from your hand catching anything on fire. It takes 1d4 fire damage or catches on fire if flammable.
+
+##### Shard
+
+> <u>Cast time:</u> 1 action
+>
+> <u>Range:</u> 30 feet
+>
+> <u>Duration:</u> instant
+>
+> You can control a small amount of water, turning it into an icesicle that you can hurl at an enemy dealing 1d4 of slicing damage
+
+##### Shift
+
+> <u>Cast time:</u> 1 action
+>
+> <u>Range:</u> 15 feet
+>
+> <u>Duration:</u> instant
+>
+> You shift the earth around you either raising yourself or an enemy, or disturbing the ground beneath a target causing them to take 1d4 of bludgeoning damage.

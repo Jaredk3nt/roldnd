@@ -4,7 +4,7 @@ A level 1-5 campaign written for the Republic of Life homebrew for Dungeons & Dr
 
 ## Background
 
-Long ago, at the dawn of the republic, a group of around 1000 outcast Voe'er formed a colony on the lush moon of Riberus, orbiting a gas giant in the Yiol system near the edge of *The Sphere*. All among the group were dissenters of a republic, and in vying for Voe'er isolation they were banished from their home world No'er. 
+Long ago, at the dawn of the republic, a group of around 1000 outcast Voe'er formed a colony on the lush moon of Riberus, orbiting a gas giant in the Yiol system near the edge of *The Sphere*. All among the group were dissenters of a republic, and in vying for Voe'er isolation they were banished from their home world No'er.
 
 Voe'er astronomers had long before known the moon to be habitable, however upon arrival to their new home the clan of Voe'er found that the atmosphere was much more oxygenated than No'er and had led to the evolution of large beasts that roamed the surface. This drove the group to build a city under the surface, in a large cave system they had found.
 

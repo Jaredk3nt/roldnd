@@ -6,7 +6,7 @@
 
 **Flight suit**: AC 11, weight 20
 
-**-**: AC 12, weight 25
+**tbd**: AC 12, weight 25
 
 ###### Medium Armor
 

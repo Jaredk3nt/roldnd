@@ -16,7 +16,7 @@ One of the newest races to join *The Sphere*, (having only arrived around a cent
 
 Only about 3-4% of the human population is considered to be Adept, and even fewer show high level or mastery with the abilities. Thus the adept are treated as highly special, often revered by those around them. Before arriving in *The Sphere* many humans referred to these abilities as magic or witchcraft. However, despite this data shows that more are being born every generation, many believing that living within *The Sphere* has caused this somehow. To this end Humans are typically cybernetically enhanced in some way or another. In fact Humans led the movement towards increased cyberization due to their technology that outmatches most of what the other races have had before their arrival. This increase in technology is due to the long journey the humans had to overcome before reaching *The Sphere*. Humans take great pride in their technological achievements, as this is typically the only thing that keeps the older races respectful of humans.
 
-The human race is typically considered to be split into two main factions, though these lines are not as black & white as many make them out to be. The first is the humans aligning with the galactic governmental system, and the second being those that reject the ideals of the government due to tough relations with some of the other races (read more in the *relations* section). How each individual aligns will heavily affect their backstory, occupation, and alignment. 
+The human race is typically considered to be split into two main factions, though these lines are not as black & white as many make them out to be. The first is the humans aligning with the galactic governmental system, and the second being those that reject the ideals of the government due to tough relations with some of the other races (read more in the *relations* section). How each individual aligns will heavily affect their backstory, occupation, and alignment.
 
 ###### Alignment
 
@@ -28,7 +28,7 @@ Lawful humans will tend towards good and will hold positions either in governmen
 
 Human culture is based on a storied past in terran based life. They hold strong attachment to natural worlds and will often keep mementos of these things while in space. Typically humans love things that come from natural materials or worlds, such as cotton clothing or naturally grown food. Many humans will adorn their residences with plant-life and wool or cotton blankets and rugs when they can afford to.
 
-Humans also greatly enjoy many forms of entertainment and will often go out of their way to have fun or be entertained. 
+Humans also greatly enjoy many forms of entertainment and will often go out of their way to have fun or be entertained.
 
 ###### Relations
 
@@ -128,7 +128,7 @@ Neem culture is best described through their battle chant "Victory above all".
 
 Neemians have a shorter life, with an average around 60. They mature quickly though and are considered to be adults at 14 years old.
 
-Physically Neemians are humanoid with light blue to purple tints to their skin, often with larger blotches of the color over them. 
+Physically Neemians are humanoid with light blue to purple tints to their skin, often with larger blotches of the color over them.
 
 They stand around 5 ft tall but with typically muscular builds. They have thick black hair that is kept short for both the male and female of the race.
 
@@ -186,9 +186,9 @@ Physically a Voe'er typically stands around 4ft tall, with a slightly stocky bui
 
 ###### Backstory
 
-Hailing from a planet with almost no land masses the Rieandi have evolved to live on and around the water.  The Rieandi are not entirely aquatic but more amphibious as they can spend alot of time in the water, but choose to live and build ontop of the water. 
+Hailing from a planet with almost no land masses the Rieandi have evolved to live on and around the water.  The Rieandi are not entirely aquatic but more amphibious as they can spend alot of time in the water, but choose to live and build ontop of the water.
 
-The species had divided itself into kingdoms that spanned large parts of the globe.  Each of the clans holds great honor in their kingdoms and are loyal to the royalty that rule them. 
+The species had divided itself into kingdoms that spanned large parts of the globe.  Each of the clans holds great honor in their kingdoms and are loyal to the royalty that rule them.
 
 While their technology is highly specialized to their oceanic needs and they had not discovered space travel, after being gifted it by the Voe'er they became a highly mercantile people. The base of the oceans hold vast mineral riches that sell for extremely high prices on other worlds. As large amounts of wealth pour into the world the Kingdoms have become even more powerful.
 
@@ -238,7 +238,62 @@ Rieandi that have taken up residence in the large glacier covered arctic caps. W
 
 **Island Rieandi**
 
-On the little land that does exist on their home planet, some Rieandi have chosen a slightly more terran based life. While still relatively proficient in the sea compared to other races, they pale in comparison to their ocean brethren. 
+On the little land that does exist on their home planet, some Rieandi have chosen a slightly more terran based life. While still relatively proficient in the sea compared to other races, they pale in comparison to their ocean brethren.
 
 **Boosts**: Strength +1
 
+---
+
+
+
+#### Bakeh
+
+##### Backstory
+
+The Bakeh are a less advanced race in *the sphere*, at the inception of the R.O.L they were still living in tribal groups. This cultural development is mostly attributed to the strange geography of their home world. Their planet (Toureas), in the Motanous system, is comprised of a highly acidic ocean that covers most of the planet. However above the planet-wide ocean floats a collection of island like landmasses that are suited for development of life. Due to the relatively small size of each individual landmass and the distances that they span from one another the Bakeh clumped into these smaller societies. The Bakeh evolved to be able to glide using the massive updrafts that occur near the edge of the islands. They have webbing like flaps under their arms and between their legs that allow them to have some sort of simple flight. Rudimentary air travel using large sails, allows the Bakeh to travel longer distances over the ocean. These "vehicles" tend to be dangerous and can hold very few people at a time due to the lessening of the drafts over open ocean, so large scale colonization took long amounts of time. Near the poles the "islands" tend to become more clumped, the northern pole considered the birth place of the Bakeh species, before they began to spread out amongst the islands. These clumpings of islands also hold the larger societies, since many were close enough to allow for personal "flight" between them. While the population is higher in these areas they still maintain tribal structure, usually having a chieftain and a council of elders that leads them.
+
+**Adept** are relatively rare in the Bakeh, but are considered extremely strong and are praised as heroes of lore amongst the tribes. A very common and famous myth amongst the Bakeh tells of an Adept Controller so powerful she could control the wind allowing herself to fly completely, and acknowledging her power she joined Tourea Bah to fly amongst the heavens creating worlds.
+
+##### Alignment
+
+Bakeh are typically neutral and chaotic or good. Their exploratory nature makes them less inclined to try to acquire personal things, and put most of their effort into their journeys.
+
+##### Culture
+
+In Bakeh culture they believe in a god-creature that created them and the islands. The gods name is Tourea Bah, they say he flies eternally on the winds with massive bird wings creating new islands. This has led to a belief that explorers are great heroes as they are the ones who are called upon by Tourea Bah to complete the "quest" of discovering all of his islands. Every island bears the name of the hero who originally discovered it. As space travel became avaliable to the Bakeh they took it as the next challenge to discover all of the worlds Tourea Bah had created, so many wander the systems to lay claim to new moons and worlds at the furthest reaches of *the sphere* and beyond.
+
+They have very strong familial ties and connection to their individual tribes. Bakeh are very often adorned with sprawling geometric tattoos of the symbols and colors associated with their tribe. As a Bakeh enters adulthood they go through a tribe wide ceremony where they are given their first tattoos after going through trials to show proof of their flight, this can range anywhere from ages 15 - 25 depending on their proficiency in flight.
+
+Due to the lack of the very specific conditions for daily flight for the Bakeh many will return to Toureas to mate and have children, so they can raise their young to fly. Those who don't return will very often make homes on high mountains to attempt to emulate the ability to glide daily.
+
+##### Relations
+##### Physical Traits
+
+The Bakeh are a medium sized species, standing about 5.5 ft tall. Their defining characteristic is their second set of smaller arms that protrude from the back of their sides, that connect to thin skin membranes on both the main arms and hips. The second arms have no hands but have 3 joints, a shoulder like cup, and two elbow like joints down them, however each elbow joint on a Bakeh's secondary arms can overextend to 180 degrees to allow for maximum control in gliding. They also have a similar membrane between their legs, but it is smaller allowing them for normal movement on the ground as well. The membrane on their "wings" is also covered in tiny fibrous membranes that make them quite quiet while gliding. Their arms are also much longer than a humans and due to this, Bakeh rest in a perching position, crouching with their hands by their feet.
+
+Their facial features are very flat, their olfactory organs are quite small and consist of small openings in the roof of their mouths with skin flaps covering them that can be opened. Their eyes are the largest feature on their face. Their eyes have two sets of eye lids, one clear that cleans and covers their eyes while they fly, and pupils that can expand and contract massive amounts. Bakeh's mouths are also quite large, extending far back to allow them to open quite wide, but they have no lips only microscopic hair like membranes that come together to completely seal their mouths.
+
+Bakeh have a lifespan of around 100 years. However they are very sensitive to different atmospheres and often have to wear respirators and goggles when traveling off of their home planet.
+
+##### Traits & Boosts
+**Boosts**: Dexterity +3
+
+**Ocular Ace**: Bakeh can see in complete darkness as if it were dim, and dim light perfectly.
+
+**Child of the Wind**: Can glide off of high places or in strong updrafts. They have advantage on all acrobatic checks.
+
+#### SubRaces
+
+**Mt.Nuuney Bakeh**
+
+Hailing from a large landmass in the southern pole of Toureas where the highest peak lies, Mt. Nuuney. This tribe of Bakeh remained quite secluded from the rest of the species. The mountain was discovered by one of the early explorers, Nuuney.
+
+The legend of Nuuney says that she was so fast that she chased Tourea Bah across the planet. To finally escape her Tourea created a giant mountain in a single moment to hide atop. Yet Nuuney spent months climbing to the peak to reach Tourea. So impressed with this feat Tourea Bah granted her the mountain as a gift, and gave her a coat of fur so she could live atop of it.
+
+Mt.Nuuney Bakeh have coats of long white fur across all of their body, and tend to be a bit smaller (around 5ft tall) than other Bakeh. The Mt.Nuuney are also known for a specific form of sword based combat, using thin swords made from a special metal alloy that is common in the mountain.
+
+**Boosts**: Constitution +2, Dexterity -1
+
+**Heart of Cold**: Resistance to cold damage.
+
+**Sword of the Mountain**: Proficient with any long bladed weapon.

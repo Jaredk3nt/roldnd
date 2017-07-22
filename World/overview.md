@@ -69,9 +69,14 @@ The skills in **R.O.L** are slightly modified, the added skills are:
 
 *The Sphere* is a vibrant and diverse place and this can sometimes be hard to describe in such a way that it draws in the players. Here are some tips that can help DM's and contributors accurately describe the world.
 
+> I have made a [tumblr](roldnd.tumblr.com) that I'll try to upkeep with images that I feel fit the theme of the world.
+
 ###### Setting by race/planet
 
 While there are overviews of what different planets entail, the portions you travel to may not as of yet be described in any detail. When setting up these places make sure to keep the world descriptions in mind, but to remember that worlds are static biomes across the entire surface. You may take your adventurers to the great white north of any planet, or deep within a forest or jungle.
 
 > Life works in the same ways all across the galaxy so using "earth" like examples or descriptions is very okay. The fauna will be different, but will maintain green tones because photosynthesis is just how plants work.
 
+As you describe cities, ships, and other such things the most important thing to keep in mind is the feel of the technology. While space travel is no new thing in *The Sphere*, personal and most civilian ships are quite well maintained.
+
+> Think flight right now, airplanes are not always brand new, but they are typically taken good care of. You may see some signs that it is starting to age but things will be replaced or reupholstered. 

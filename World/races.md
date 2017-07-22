@@ -70,17 +70,15 @@ Their culture is strongly based upon their belief system in *The Presence*. Kol 
 
 ###### Relations
 
-Kol tend to act as a neutral party to all, they have never taken part in any war or large scale fight of any kind. Most consider this due to others fear of their abilities, and the K
-
-
-
-ol's nature to not take out the actions of one on any others. While their relations are generally good with all of the species residing in *The Sphere*, Kol often act with an air of superiority towards non-Adept's.
+Kol tend to act as a neutral party to all, they have never taken part in any war or large scale fight of any kind. Most consider this due to others fear of their abilities, and the Kol's nature to not take out the actions of one on any others. While their relations are generally good with all of the species residing in *The Sphere*, Kol often act with an air of superiority towards non-Adept's.
 
 ###### Physical Traits
 
 With an average life span of 125 - 150 years they are not the longest-living species but are higher than most. Some Adept masters have been said to have increased their life to over 200 years though.
 
 Physically the Kol are humanoid and stand around 6.5ft tall and have longer legs in proportion to their torsos. They tend to have very slender builds with little muscle definition, due to their dependence on the Adept. Their skin is very light and fair with shades ranging from slightly greenish-yellow to light brown. Their hair is very light with very subtle red accents, it is kept long and braided for all people.
+
+Physically the Kol are humanoid and stand around 6.5ft tall. They have longer legs in proportion to the torsos,
 
 ###### Traits & Boosts
 
